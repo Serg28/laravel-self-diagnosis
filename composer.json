@@ -1,11 +1,11 @@
 {
-    "name": "beyondcode/laravel-self-diagnosis",
-    "description": "Perform various self diagnosis tests on your Laravel application.",
+    "name": "Serg28/laravel-self-diagnosis",
+    "description": "Perform various self diagnosis tests on your Laravel application (fork).",
     "keywords": [
         "beyondcode",
         "laravel-self-diagnosis"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-self-diagnosis",
+    "homepage": "https://github.com/Serg28/laravel-self-diagnosis",
     "license": "MIT",
     "authors": [
         {
